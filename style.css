@@ -1,7 +1,20 @@
-p {
+#intro {
+	border: 1px solid black;
+}
+
+.spotlight {
+	background-color: #FEFE22;
+}
+
+p, h2{
 	text-decoration: line-through;
 	font-size: 12;
-    color: #0000ff;
+    /*color: #0000ff;*/
+    color: #006400;
+}
+
+p a{
+	color: orange;
 }
 
 h1 {
@@ -16,10 +29,11 @@ h1 {
 
 h2 {
 	text-decoration: underline;
-	color: #888888;
+	/*color: #888888;*/
 }
 
 body {
+	background-image: url("paper.gif");
 	border-style: solid;
     font-family: arial, sans-serif;
     font-size: 12px;
