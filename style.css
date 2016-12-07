@@ -1,3 +1,30 @@
-.firstheader {
-    color: red;
+p {
+	text-decoration: line-through;
+	font-size: 12;
+    color: #0000ff;
+}
+
+h1 {
+	text-transform: uppercase;
+	color: #888888;
+}
+
+h2 {
+	text-decoration: underline;
+	color: #888888;
+}
+
+body {
+	border-style: solid;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+}
+
+table {
+
+	border-style: dashed;
+}
+
+img {
+	border-style: double;
 }
