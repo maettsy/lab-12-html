@@ -5,8 +5,13 @@ p {
 }
 
 h1 {
+	margin: 20px;
+	padding: 40px;
 	text-transform: uppercase;
 	color: #888888;
+	border-style: dashed;
+    border-width: 5px;
+    border-color: red;
 }
 
 h2 {
